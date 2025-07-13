@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in AI
-- 🌱 I’m currently working on MLOps, Backend and Machine learnig
+- 🌱 I’m currently working on MLOps, Backend and Machine Learnig
 - 🔭 My goal is to use my knowledge to make people's lives easier or solve their problems
 
 ## 🌐 Socials:
